@@ -9,7 +9,7 @@ If you want to know me more. Please click here >> [My Portfolio](https://sites.g
 </a>
 -->
 <div align="center">
-  
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TKishioru&layout=compact&hide_title=1&card_width=500" alt="Top language used in my repos" />
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
