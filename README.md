@@ -16,7 +16,9 @@ If you want to know me more. Please click here >> [My Portfolio](https://sites.g
   <br />
 </div>
 
+<!--
 ## About Me
 
 ![GitHub metrics](https://metrics.lecoq.io/TKishioru) 
 ![Profile views](https://gpvc.arturio.dev/TKishioru)  
+-->
