@@ -1,5 +1,9 @@
 # 𝐻𝑒𝓁𝓁𝑜 𝒲𝑜𝓇𝓁𝒹 <a href="https://tkishioru.github.io/W_leakna/index.html"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=2280F7&width=500&lines=Computer+Engineering+KMITL;"></a>
+</p>
+
 I am TK. I Study Computer Engineering at King Mongkut's Institute of Technology Ladkrabang, Thailand and I'm practicing programming If no matter what, you can hire me.
 If you want to know me more. Please click here >> [My Portfolio](https://sites.google.com/d/1R08N4n6A9hFu2HL7NAPjxmn1AVSCL8c1/p/1oORpVnWLNZxmQz10iRYwjXLGdFBhLmaD/edit) ann [My CV](https://tkishioru.github.io/00_CV/index.html)
 
